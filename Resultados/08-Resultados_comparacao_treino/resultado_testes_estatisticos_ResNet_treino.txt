@@ -1,0 +1,35 @@
+
+--- Perda Treino ---
+Shapiro FP32: p=0.000032 | Shapiro FP16: p=0.090664
+Levene (variâncias iguais): p=0.037130
+Mann-Whitney U: p=0.000183
+
+--- Acurácia Treino ---
+Shapiro FP32: p=0.000033 | Shapiro FP16: p=0.247167
+Levene (variâncias iguais): p=0.127055
+Mann-Whitney U: p=0.000180
+
+--- Perda Validação ---
+Shapiro FP32: p=0.000011 | Shapiro FP16: p=0.000019
+Levene (variâncias iguais): p=0.217643
+Mann-Whitney U: p=0.000183
+
+--- Acurácia Validação ---
+Shapiro FP32: p=0.000133 | Shapiro FP16: p=0.001274
+Levene (variâncias iguais): p=0.075826
+Mann-Whitney U: p=0.000183
+
+--- Tempo Treino (s) ---
+Shapiro FP32: p=0.477458 | Shapiro FP16: p=0.154038
+Levene (variâncias iguais): p=0.008258
+T-test: p=0.000000
+
+--- Consumo médio de energia (W) ---
+Shapiro FP32: p=0.111574 | Shapiro FP16: p=0.067941
+Levene (variâncias iguais): p=0.037824
+T-test: p=0.000000
+
+--- Emissões médias (kg CO₂) ---
+Shapiro FP32: p=0.000734 | Shapiro FP16: p=0.105341
+Levene (variâncias iguais): p=0.163489
+Mann-Whitney U: p=0.000183

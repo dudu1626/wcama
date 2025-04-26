@@ -1,0 +1,35 @@
+
+--- Acurácia Teste ---
+Shapiro FP32: p=0.907170 | Shapiro FP16: p=0.132171
+Levene (variâncias iguais): p=0.913672
+T-test: p=0.000000
+
+--- Precisão Teste ---
+Shapiro FP32: p=0.515790 | Shapiro FP16: p=0.229488
+Levene (variâncias iguais): p=0.970969
+T-test: p=0.000000
+
+--- Recall Teste ---
+Shapiro FP32: p=0.907170 | Shapiro FP16: p=0.132171
+Levene (variâncias iguais): p=0.913672
+T-test: p=0.000000
+
+--- F1 Score Teste ---
+Shapiro FP32: p=0.769905 | Shapiro FP16: p=0.113019
+Levene (variâncias iguais): p=0.975857
+T-test: p=0.000000
+
+--- Tempo Teste (s) ---
+Shapiro FP32: p=0.880909 | Shapiro FP16: p=0.588504
+Levene (variâncias iguais): p=0.251811
+T-test: p=0.212464
+
+--- Consumo médio de energia (W) ---
+Shapiro FP32: p=0.664095 | Shapiro FP16: p=0.123187
+Levene (variâncias iguais): p=0.226258
+T-test: p=0.000255
+
+--- Emissões médias (kg CO₂) ---
+Shapiro FP32: p=0.124542 | Shapiro FP16: p=0.528531
+Levene (variâncias iguais): p=0.126548
+T-test: p=0.601284

@@ -1,0 +1,6 @@
+Acurácia: 0.7372
+Precisão: 0.7374
+Revocação: 0.7374
+Medida-F1: 0.7371
+Média do Tempo de Teste: 0.8456962000000001 segundos
+Média do Consumo de Energia: 5392.7882 W

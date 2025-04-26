@@ -1,0 +1,25 @@
+
+--- duration ---
+Shapiro FP32: p=0.409152 | Shapiro FP16: p=0.827065
+Levene (variâncias iguais): p=0.119833
+T-test: p=0.000000
+
+--- emissions ---
+Shapiro FP32: p=0.009100 | Shapiro FP16: p=0.000052
+Levene (variâncias iguais): p=0.770766
+Mann-Whitney U: p=0.000183
+
+--- energy_consumed ---
+Shapiro FP32: p=0.009101 | Shapiro FP16: p=0.000052
+Levene (variâncias iguais): p=0.770759
+Mann-Whitney U: p=0.000183
+
+--- cpu_energy ---
+Shapiro FP32: p=0.000029 | Shapiro FP16: p=0.000000
+Levene (variâncias iguais): p=0.978759
+Mann-Whitney U: p=0.002202
+
+--- gpu_energy ---
+Shapiro FP32: p=0.561141 | Shapiro FP16: p=0.243086
+Levene (variâncias iguais): p=0.573894
+T-test: p=0.000000
